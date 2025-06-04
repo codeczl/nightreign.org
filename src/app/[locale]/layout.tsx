@@ -32,18 +32,44 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    default: 'Roblox Code | Latest Promo Codes & Redeem Guide',
-    template: '%s | Roblox Code'
+    template: '%s | Nightreign Wiki 2025',
+    default: 'Nightreign | Complete Elden Ring Expansion Wiki & Guides 2025'
   },
-  description: 'Find and redeem the latest Roblox promo codes. Get free items, accessories, and in-game bonuses. Updated daily with working codes and step-by-step redemption guides.',
-  authors: { name: 'robloxcode.net', url: 'https://robloxcode.net/' },
-  keywords: 'Roblox code, redeem Roblox codes, Roblox promo codes, Roblox game codes, free Roblox items',
-  alternates: {
-    canonical: "https://robloxcode.net/",
-    languages: {
-      "en": "https://robloxcode.net/en",
-      "zh": "https://robloxcode.net/zh",
-    }
+  description: 'Comprehensive Nightreign guides, release info, and boss strategies for the new Elden Ring expansion. Explore Nightreign news, gameplay mechanics, and tips.',
+  keywords: 'Nightreign, Elden Ring Nightreign, Nightreign guide, Nightreign bosses, Nightreign walkthrough, Nightreign release date',
+  authors: [{ name: 'Nightreign.org' }],
+  creator: 'Nightreign.org',
+  publisher: 'Nightreign.org',
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
+  metadataBase: new URL('https://nightreign.org'),
+  openGraph: {
+    title: 'Nightreign | Complete Elden Ring Expansion Wiki & Guides 2025',
+    description: 'Comprehensive Nightreign guides, release info, and boss strategies for the new Elden Ring expansion. Explore Nightreign news, gameplay mechanics, and tips.',
+    url: 'https://nightreign.org',
+    siteName: 'Nightreign.org',
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Nightreign | Complete Elden Ring Expansion Wiki & Guides',
+    description: 'Comprehensive Nightreign guides, release info, and boss strategies for the new Elden Ring expansion.',
+    creator: '@nightreign',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
   },
   icons: [
     { rel: "icon", type: "image/png", sizes: "16x16", url: "/favicon-16x16.png" },

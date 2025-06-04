@@ -43,44 +43,49 @@ export default async function Home() {
         <p className="mx-auto max-w-[700px] md:text-xl tracking-tight">
           {t("intro")}
         </p>
-        <div className='w-full px-2 pt-10 lg:w-1/2'>
+        {/* <div className='w-full px-2 pt-10 lg:w-1/2'>
           <Search />
-        </div>
+        </div> */}
       </section>
 
-      {/* Latest Codes Section */}
-      <section id="latest-codes" className="space-y-6">
-        <h2 className="text-3xl font-bold">{t("latest_codes.title")}</h2>
+      {/* Overview Section */}
+      <section id="overview" className="space-y-6">
+        <h2 className="text-3xl font-bold">{t("overview.title")}</h2>
+        <p>{t("overview.content")}</p>
+      </section>
+
+      {/* Release Info Section */}
+      <section id="release" className="space-y-6">
+        <h2 className="text-3xl font-bold">{t("release.title")}</h2>
+        <p>{t("release.content")}</p>
+      </section>
+
+      {/* Characters Section */}
+      <section id="characters" className="space-y-6">
+        <h2 className="text-3xl font-bold">{t("characters.title")}</h2>
+        <p>{t("characters.content")}</p>
+      </section>
+
+      {/* Bosses Section */}
+      <section id="bosses" className="space-y-6">
+        <h2 className="text-3xl font-bold">{t("bosses.title")}</h2>
+        <p>{t("bosses.content")}</p>
+      </section>
+
+      {/* FAQ Section */}
+      <section id="faq" className="space-y-6">
+        <h2 className="text-3xl font-bold">{t("faq.title")}</h2>
         <ul className="space-y-4">
-          <li>{t("latest_codes.code1")}</li>
-          <li>{t("latest_codes.code2")}</li>
+          {[
+            { q: t("faq.questions.0.q"), a: t("faq.questions.0.a") },
+            { q: t("faq.questions.1.q"), a: t("faq.questions.1.a") },
+            { q: t("faq.questions.2.q"), a: t("faq.questions.2.a") }
+          ].map((item, index) => (
+            <li key={index}>
+              <strong>{item.q}</strong> {item.a}
+            </li>
+          ))}
         </ul>
-        <p>{t("latest_codes.update_note")}</p>
-      </section>
-
-      {/* How to Redeem Section */}
-      <section id="how-to-redeem" className="space-y-6">
-        <h2 className="text-3xl font-bold">{t("how_to_redeem.title")}</h2>
-        <p>{t("how_to_redeem.intro")}</p>
-        <ol className="list-decimal list-inside space-y-2">
-          <li>{t("how_to_redeem.step1")}</li>
-          <li>{t("how_to_redeem.step2")}</li>
-          <li>{t("how_to_redeem.step3")}</li>
-          <li>{t("how_to_redeem.step4")}</li>
-        </ol>
-        <p>{t("how_to_redeem.note")}</p>
-      </section>
-
-      {/* Tips Section */}
-      <section id="tips" className="space-y-6">
-        <h2 className="text-3xl font-bold">{t("tips.title")}</h2>
-        <p>{t("tips.intro")}</p>
-        <ul className="list-disc list-inside space-y-2">
-          <li>{t("tips.tip1")}</li>
-          <li>{t("tips.tip2")}</li>
-          <li>{t("tips.tip3")}</li>
-        </ul>
-        <p>{t("tips.conclusion")}</p>
       </section>
 
       <div className='border-t'></div>

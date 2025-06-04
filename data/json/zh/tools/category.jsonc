@@ -19,7 +19,61 @@
     "name": "官方网址",
     "src": "Official.jsonc",
     "link": "Official",
-    "description": "用于快速查看官方网址"
+    "description": "快速访问官方网站"
+  },
+  {
+    "name": "游戏维基",
+    "src": "Wikis.jsonc",
+    "link": "Wikis",
+    "description": "全面的游戏信息和社区整理的内容"
+  },
+  {
+    "name": "指南与攻略",
+    "src": "Guides.jsonc",
+    "link": "Guides",
+    "description": "深入的游戏指南和攻略"
+  },
+  {
+    "name": "新闻与评测",
+    "src": "News.jsonc",
+    "link": "News",
+    "description": "艾尔登法环：夜之统治的最新新闻和评测"
+  },
+  {
+    "name": "社区论坛",
+    "src": "Community.jsonc",
+    "link": "Community",
+    "description": "加入讨论并与其他玩家分享经验"
+  },
+  {
+    "name": "视频指南",
+    "src": "Videos.jsonc",
+    "link": "Videos",
+    "description": "视频指南和教程，帮助更好地理解游戏"
+  },
+  {
+    "name": "更新说明",
+    "src": "Patches.jsonc",
+    "link": "Patches",
+    "description": "了解最新的游戏补丁和更新"
+  },
+  {
+    "name": "游戏提示",
+    "src": "Tips.jsonc",
+    "link": "Tips",
+    "description": "对玩家有帮助的提示和策略"
+  },
+  {
+    "name": "Reddit 讨论",
+    "src": "Reddit.jsonc",
+    "link": "Reddit",
+    "description": "Reddit 上的社区讨论和分享经验"
+  },
+  {
+    "name": "游戏评测",
+    "src": "Reviews.jsonc",
+    "link": "Reviews",
+    "description": "艾尔登法环：夜之统治的评测和玩家反馈"
   }
   // B
   // C

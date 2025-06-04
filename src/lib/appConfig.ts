@@ -4,7 +4,7 @@ export const appConfig = {
       defaultLocale: "en" as const,
       localeLabels: {
         en: "English",
-        zh: "简体中文",
+        zh: "中文",
       },
       localeDetection: false,
       localeCurrencies: {

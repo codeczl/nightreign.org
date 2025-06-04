@@ -105,9 +105,9 @@ export const Navigation = ({ categories }: navigationProp ) => {
               className="block"
               width={size}
               height={size}
-              alt="RobloxCode"
+              alt="Nightreign"
             />
-            <span className="inline-block font-bold">Roblox Code</span>
+            <span className="inline-block font-bold">Nightreign</span>
           </Link>
           <nav className="hidden md:flex gap-6">
             <NavigationMenu>
@@ -154,7 +154,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
                             href="/"
                           >
                             <div className="mb-2 mt-4 text-lg font-medium">
-                              Roblox Code
+                              Nightreign
                             </div>
                             <p className="text-xs leading-tight text-muted-foreground">
                               {t('articleDescription')}
@@ -163,13 +163,13 @@ export const Navigation = ({ categories }: navigationProp ) => {
                         </NavigationMenuLink>
                       </li>
                       <ListItem 
-                        href="/article/latest-roblox-codes-2025" 
+                        href="/article/nightreign-revenant-unlock-guide" 
                         title={t('latestCodesArticle')}
                       >
                         {t('latestCodesDescription')}
                       </ListItem>
                       <ListItem 
-                        href="/article/roblox-codes-usefulness-secrets" 
+                        href="/article/nightreign-duchess-unlock-guide" 
                         title={t('secretsArticle')}
                       >
                         {t('secretsDescription')}

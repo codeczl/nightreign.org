@@ -1,8 +1,8 @@
 {
-  "name": "robloxcode",
+  "name": "nightreign",
   "version": "1.0.0",
   "private": true,
-  "description": "Your ultimate guide for Roblox codes, promo codes and redeem tips",
+  "description": "Complete Elden Ring Nightreign Wiki - Your ultimate guide for news, gameplay mechanics, boss strategies and walkthroughs",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const BASE_URL = 'https://robloxcode.net';
+const BASE_URL = 'https://nightreign.org';
 
 export default function robots(): MetadataRoute.Robots {
   return {

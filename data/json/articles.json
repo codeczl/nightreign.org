@@ -1,120 +1,117 @@
 [
   {
-    "id": "latest-roblox-codes-2025",
+    "id": "nightreign-revenant-unlock-guide",
     "translations": {
       "zh": {
-        "title": "最新Roblox代码大全：如何兑换2025年热门代码",
-        "description": "本文提供了2025年最新的Roblox兑换代码，教你如何快速兑换这些热门代码，提升游戏体验！",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/zh/latest-roblox-codes-2025.md"
+        "title": "Nightreign Revenant职业解锁攻略（附亲测打法与BOSS机制）",
+        "description": "本篇攻略将详细介绍如何在《Elden Ring: Nightreign》中解锁隐藏职业Revenant，包含完整解锁步骤、战斗建议与当前版本玩法解读，适合多人联机玩家参考。",
+        "date": "2025-05-31T00:00:00.000Z",
+        "lastModified": "2025-05-31T00:00:00Z",
+        "path": "data/md/zh/nightreign-revenant-unlock-guide.md"
       },
       "en": {
-        "title": "Latest Roblox Code List: How to Redeem Popular Codes for 2025",
-        "description": "This article provides the latest Roblox redemption codes for 2025, showing you how to quickly redeem these popular codes and enhance your gaming experience!",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/en/latest-roblox-codes-2025.md"
+        "title": "Nightreign Revenant Unlock Guide (With Strategy and Boss Tips)",
+        "description": "This guide walks you through how to unlock the hidden Revenant class in Elden Ring: Nightreign, including the full questline, boss strategies, class traits, and co-op recommendations. Perfect for players looking for tactical support roles.",
+        "date": "2025-05-31T00:00:00.000Z",
+        "lastModified": "2025-05-31T00:00:00Z",
+        "path": "data/md/en/nightreign-revenant-unlock-guide.md"
       }
     }
   },
   {
-    "id": "roblox-codes-usefulness-secrets",
+    "id": "nightreign-duchess-unlock-guide",
     "translations": {
       "zh": {
-        "title": "Roblox代码是否真的有用？揭秘兑换码背后的秘密",
-        "description": "探索Roblox代码的真正价值，揭秘这些兑换码如何影响玩家体验及其背后的游戏经济。",
-        "date": "2025-01-08T00:00:00.000Z",
-        "lastModified": "2025-01-08T00:00:00Z",
-        "path": "data/md/zh/roblox-codes-usefulness-secrets.md"
+        "title": "Nightreign Duchess职业解锁指南：一位优雅刺客的觉醒之路",
+        "description": "本攻略将带你逐步完成Nightreign中Duchess职业的解锁流程，包含任务线、剧情触发、战斗建议与职业技能解析，适合高机动刺客流派玩家参考。",
+        "date": "2025-06-02T00:00:00.000Z",
+        "lastModified": "2025-06-02T00:00:00Z",
+        "path": "data/md/zh/nightreign-duchess-unlock-guide.md"
       },
       "en": {
-        "title": "Are Roblox Codes Really Useful? Unveiling the Secrets Behind Promo Codes",
-        "description": "Explore the true value of Roblox codes, uncovering how these promo codes impact player experiences and the game economy behind them.",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/en/roblox-codes-usefulness-secrets.md"
+        "title": "How to Unlock the Duchess Class in Nightreign – A High-Risk, High-Style Assassin",
+        "description": "This guide walks you through unlocking the Duchess class in Elden Ring: Nightreign, including how to complete the hidden questline, item interactions, and boss mechanics. Perfect for players who love elegance and lethality.",
+        "date": "2025-06-02T00:00:00.000Z",
+        "lastModified": "2025-06-02T00:00:00Z",
+        "path": "data/md/en/nightreign-duchess-unlock-guide.md"
       }
     }
   },
   {
-    "id": "how-to-redeem-roblox-codes-all-channels-revealed",
+    "id": "nightreign-characters-unlock-guide",
     "translations": {
       "zh": {
-        "title": "如何获取Roblox代码？全方位渠道揭秘",
-        "description": "本文为您详细介绍了如何获取Roblox代码，包括通过官方、社交媒体等多种渠道快速获取和兑换热门代码的方法。",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/zh/how-to-redeem-roblox-codes-all-channels-revealed.md"
+        "title": "Nightreign 全角色解锁攻略：八大职业入手指南",
+        "description": "本篇文章将为你详细介绍《Nightreign》中全部八位职业的解锁方式，包括初始职业与两个隐藏职业Duchess和Revenant的完整解锁流程，适合新手与进阶玩家参考。",
+        "date": "2025-06-02T00:00:00.000Z",
+        "lastModified": "2025-06-02T00:00:00Z",
+        "path": "data/md/zh/nightreign-characters-unlock-guide.md"
       },
       "en": {
-        "title": "How to Get Roblox Codes? Comprehensive Channel Reveals",
-        "description": "This article provides a comprehensive guide on how to get Roblox codes, covering official and social media channels for quick access and redemption of popular codes.",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/en/how-to-redeem-roblox-codes-all-channels-revealed.md"
+        "title": "How to Unlock All Characters in Nightreign – Full Nightfarer Roster Explained",
+        "description": "This guide breaks down how to unlock all 8 playable classes in Elden Ring: Nightreign, including the two hidden ones: Duchess and Revenant. Learn their quests, tips, and how to build your perfect team.",
+        "date": "2025-06-02T00:00:00.000Z",
+        "lastModified": "2025-06-02T00:00:00Z",
+        "path": "data/md/en/nightreign-characters-unlock-guide.md"
       }
     }
   },
   {
-    "id": "roblox-code-redemption-faq",
+    "id": "nightreign-remembrance-quest-guide",
     "translations": {
       "zh": {
-        "title": "Roblox代码兑换常见问题解答（FAQ）",
-        "description": "本文为您提供了关于Roblox代码兑换的常见问题解答，帮助您解决在兑换过程中遇到的各种问题。",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/zh/roblox-code-redemption-faq.md"
+        "title": "Nightreign 记忆任务线全攻略：职业背景 × 战利品 × 隐藏故事",
+        "description": "本篇文章整理了《Nightreign》中所有职业的 Remembrance 记忆任务线攻略，涵盖解锁方式、战斗流程、剧情提示与专属奖励，适合喜爱深入探索角色故事的玩家。",
+        "date": "2025-06-02T00:00:00.000Z",
+        "lastModified": "2025-06-02T00:00:00Z",
+        "path": "data/md/zh/nightreign-remembrance-quest-guide.md"
       },
       "en": {
-        "title": "Roblox Code Redemption FAQ",
-        "description": "This article provides answers to the most frequently asked questions about Roblox code redemption, helping you resolve any issues you may encounter during the process.",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/en/roblox-code-redemption-faq.md"
+        "title": "Nightreign Remembrance Quests – Complete Character Memory Guide",
+        "description": "This article walks through all Remembrance quests in Nightreign, detailing how to unlock them, key story beats, boss fights, and exclusive class rewards. A must-read for lore hunters and min-maxers alike.",
+        "date": "2025-06-02T00:00:00.000Z",
+        "lastModified": "2025-06-02T00:00:00Z",
+        "path": "data/md/en/nightreign-remembrance-quest-guide.md"
       }
     }
   },
   {
-    "id": "future-of-roblox-codes-2025",
+    "id": "nightreign-how-to-unlock-skins",
     "translations": {
       "zh": {
-        "title": "Roblox代码的未来：什么样的代码会在2025年崭露头角？",
-        "description": "本文展望了2025年Roblox代码的未来趋势，包括AR/VR、AI集成、教育用途等领域可能崭露头角的代码类型。",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/zh/future-of-roblox-codes-2025.md"
+        "title": "Nightreign 皮肤解锁全攻略：东翼镜子、记忆支线和你钱包的眼泪",
+        "description": "本篇攻略详细讲解了在《Nightreign》中如何解锁角色皮肤，包括衣柜房开启条件、记忆任务奖励皮肤、最终Boss后的魂系外观，以及皮肤价格与Murk获取方式。适合每一位想“又帅又强”的玩家。",
+        "date": "2025-06-02T00:00:00.000Z",
+        "lastModified": "2025-06-02T00:00:00Z",
+        "path": "data/md/zh/nightreign-how-to-unlock-skins.md"
       },
       "en": {
-        "title": "The Future of Roblox Codes: What Types Will Emerge in 2025?",
-        "description": "This article explores the future trends of Roblox codes in 2025, including AR/VR integration, AI-driven features, and educational applications.",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/en/future-of-roblox-codes-2025.md"
+        "title": "How to Unlock Skins in Nightreign – Full Fashion Guide for the Sleep-Deprived",
+        "description": "A complete and highly practical guide on unlocking skins in Nightreign, from wardrobe access to exclusive Remembrance cosmetics and Dark Souls-inspired garb. Includes pricing, Murk farming tips, and a healthy dose of late-night gamer energy.",
+        "date": "2025-06-02T00:00:00.000Z",
+        "lastModified": "2025-06-02T00:00:00Z",
+        "path": "data/md/en/nightreign-how-to-unlock-skins.md"
       }
     }
   },
   {
-    "id": "how-to-enhance-roblox-experience-with-codes",
+    "id": "nightreign-duchess-remembrance-guide",
     "translations": {
       "zh": {
-        "title": "如何利用Roblox代码提升你的游戏体验？",
-        "description": "本文介绍了如何通过使用Roblox代码来优化和提升您的游戏体验，包括性能优化、功能扩展和个性化设置等方面的技巧。",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/zh/how-to-enhance-roblox-experience-with-codes.md"
+        "title": "Nightreign 公爵夫人记忆任务线攻略（Duchess Remembrance）",
+        "description": "本攻略系统讲解了Duchess的记忆任务全流程，包括每章节的解锁条件、关键战斗与道具、最终专属皮肤奖励，是深度体验角色剧情和获取强力遗物必看的内容。",
+        "date": "2025-06-02T00:00:00.000Z",
+        "lastModified": "2025-06-02T00:00:00Z",
+        "path": "data/md/zh/nightreign-duchess-remembrance-guide.md"
       },
       "en": {
-        "title": "How to Enhance Your Roblox Experience with Codes?",
-        "description": "This article explores how to optimize and enhance your Roblox gaming experience by utilizing codes, including tips on performance optimization, feature expansion, and personalization.",
-        "date": "2025-01-07T00:00:00.000Z",
-        "lastModified": "2025-01-07T00:00:00Z",
-        "path": "data/md/en/how-to-enhance-roblox-experience-with-codes.md"
+        "title": "How to Complete the Duchess’s Remembrance Questline – Elden Ring: Nightreign",
+        "description": "A full walkthrough of Duchess's Remembrance quest in Nightreign, including how to unlock each chapter, defeat required enemies, and earn exclusive relics and her Remembrance outfit. Perfect for players diving deep into her lore and builds.",
+        "date": "2025-06-02T00:00:00.000Z",
+        "lastModified": "2025-06-02T00:00:00Z",
+        "path": "data/md/en/nightreign-duchess-remembrance-guide.md"
       }
     }
   }
-  
-  
-  
   
 ]

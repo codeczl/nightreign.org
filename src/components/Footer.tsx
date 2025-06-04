@@ -15,7 +15,7 @@ export function Footer() {
           <div className='flex flex-col justify-center items-center lg:items-start lg:justify-start'>
             <h3 className="text-sm font-bold tracking-normal">
               <Link href="/" className="flex items-center space-x-2">
-                <span className="inline-block font-bold">Roblox Code</span>
+                <span className="inline-block font-bold">Nightreign</span>
               </Link>
             </h3>
             <p className="mt-4 text-xs">
@@ -75,7 +75,7 @@ export function Footer() {
         </div>
         <div className="mt-8 border-t pt-8">
           <p className="text-base text-center">
-            &copy; {new Date().getFullYear()} RobloxCode.net. {t('copyright')}
+            &copy; {new Date().getFullYear()} Nightreign.org. {t('copyright')}
           </p>
         </div>
       </div>

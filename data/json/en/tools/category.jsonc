@@ -18,8 +18,62 @@
   {
     "name": "Official Sites",
     "src": "Official.jsonc",
-    "link": "Official", 
+    "link": "Official",
     "description": "Quick access to official websites"
+  },
+  {
+    "name": "Game Wikis",
+    "src": "Wikis.jsonc",
+    "link": "Wikis",
+    "description": "Comprehensive game information and community-curated content"
+  },
+  {
+    "name": "Guides & Walkthroughs",
+    "src": "Guides.jsonc",
+    "link": "Guides",
+    "description": "In-depth guides and walkthroughs to assist players"
+  },
+  {
+    "name": "News & Reviews",
+    "src": "News.jsonc",
+    "link": "News",
+    "description": "Latest news and reviews about Elden Ring: Nightreign"
+  },
+  {
+    "name": "Community Forums",
+    "src": "Community.jsonc",
+    "link": "Community",
+    "description": "Join discussions and share experiences with other players"
+  },
+  {
+    "name": "Video Guides",
+    "src": "Videos.jsonc",
+    "link": "Videos",
+    "description": "Visual guides and tutorials for better gameplay understanding"
+  },
+  {
+    "name": "Patch Notes",
+    "src": "Patches.jsonc",
+    "link": "Patches",
+    "description": "Stay updated with the latest game patches and updates"
+  },
+  {
+    "name": "Gameplay Tips",
+    "src": "Tips.jsonc",
+    "link": "Tips",
+    "description": "Helpful tips and strategies for players"
+  },
+  {
+    "name": "Reddit Discussions",
+    "src": "Reddit.jsonc",
+    "link": "Reddit",
+    "description": "Community discussions and shared experiences on Reddit"
+  },
+  {
+    "name": "Game Reviews",
+    "src": "Reviews.jsonc",
+    "link": "Reviews",
+    "description": "Critical reviews and player feedback on Elden Ring: Nightreign"
   }
   // B
   // C

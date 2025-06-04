@@ -21,13 +21,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
-      url: 'article/latest-roblox-codes', // 最新代码文章
+      url: 'article/nightreign-revenant-unlock-guide', // Revenant职业解锁攻略
       lastModified: new Date(),
-      changeFrequency: 'daily',
+      changeFrequency: 'weekly',
       priority: 0.8,
     },
     {
-      url: 'article/are-roblox-codes-useful', // 代码使用指南
+      url: 'article/nightreign-duchess-unlock-guide', // Duchess职业解锁攻略
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+    {
+      url: 'article/nightreign-characters-unlock-guide', // 全角色解锁攻略
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.7,
@@ -44,7 +50,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const routeUrl = route.url === '' ? '' : `/${route.url}`;
     return {
       ...route,
-      url: `https://robloxcode.net${routeUrl}`,
+      url: `https://nightreign.org${routeUrl}`,
     };
   });
 

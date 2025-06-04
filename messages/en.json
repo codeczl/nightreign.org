@@ -1,68 +1,78 @@
 {
   "home": {
-    "meta_title": "Roblox Code | Latest Promo Codes & Redeem Guide",
-    "meta_description": "Discover the latest Roblox codes, how to redeem them, and tips for using them effectively to maximize your gaming experience.",
-    "h1": "Roblox Code",
-    "h2": "Latest Roblox Codes--Your Ultimate Guide to Promo Codes",
-    "intro": "Roblox players love finding new ways to enhance their gaming experience, and Roblox codes are the perfect tool for this. Below is a list of the latest promo codes you can use:",
-    "latest_codes": { 
-      "title": "Latest Roblox Codes",
-      "code1": "SPIDERCOLA: Redeem for a Spider Cola shoulder accessory.",
-      "code2": "TWEETROBLOX: Redeem for a free bird shoulder pet.",
-      "update_note": "Stay updated with the latest Roblox codes by bookmarking this page!"
+    "meta_title": "Nightreign | Complete Elden Ring Expansion Wiki & Guides 2025",
+    "meta_description": "Comprehensive Nightreign guides, release info, and boss strategies for the new Elden Ring expansion. Explore Nightreign news, gameplay mechanics, and tips.",
+    "h1": "Nightreign – The Ultimate Elden Ring Expansion Resource",
+    "h2": "Welcome to the premier hub for Nightreign news, tips, and complete guides",
+    "intro": "Stay updated with the latest from the world of Nightreign.",
+    "overview": {
+      "title": "What is Nightreign?",
+      "content": "Nightreign is an expansive action-RPG addition to the Elden Ring universe. Developed by FromSoftware, Nightreign explores a dark parallel world filled with new lore, terrifying bosses, and a unique 3-day roguelike-style survival structure. In Nightreign, players assume the role of \"Nightfarers,\" battling against chaos to restore balance."
     },
-    "how_to_redeem": {
-      "title": "How to Redeem Roblox Codes",
-      "intro": "Redeeming a Roblox code is simple. Follow these steps:",
-      "step1": "Log in to your Roblox account.",
-      "step2": "Go to the Redeem Codes page.",
-      "step3": "Enter the Roblox code in the box and click \"Redeem.\"",
-      "step4": "Enjoy your reward in the game!",
-      "note": "If the code doesn't work, double-check for typos or expired dates."
+    "release": {
+      "title": "Nightreign Release Date and Platforms",
+      "content": "Nightreign launches globally on May 30, 2025. It will be available on PlayStation 5, Xbox Series X|S, PC, and also supports co-op gameplay for up to three players. Keep an eye out for updates and downloadable expansions as Nightreign evolves post-launch."
     },
-    "tips": {
-      "title": "Tips for Using Roblox Codes Effectively",
-      "intro": "To make the most of your Roblox codes:",
-      "tip1": "Check for new codes regularly as they can expire quickly.",
-      "tip2": "Follow Roblox's official social media accounts for exclusive codes.",
-      "tip3": "Use codes during special events to unlock limited-time items.",
-      "conclusion": "With these tips, you'll always be ready to maximize your rewards!"
+    "characters": {
+      "title": "Nightreign Character Classes",
+      "content": "There are eight predefined classes in Nightreign, each with unique strengths and skills. Whether you prefer magic, melee, or support roles, Nightreign offers flexible playstyles. Discover the best class combinations for survival in the ever-changing dungeons of Nightreign."
+    },
+    "bosses": {
+      "title": "Nightreign Boss Battles & Walkthroughs",
+      "content": "Face legendary enemies like the Blue Flame Dragon and King of Thorns. Our detailed Nightreign boss strategies help you understand enemy behavior, weak points, and provide step-by-step combat guides to help you conquer every battle in Nightreign."
+    },
+    "faq": {
+      "title": "Nightreign FAQ",
+      "questions": [
+        {
+          "q": "Do I need to play Elden Ring first?",
+          "a": "No, Nightreign is a standalone story accessible to all players."
+        },
+        {
+          "q": "Is Nightreign single-player only?",
+          "a": "No, Nightreign supports co-op mode with up to 3 players."
+        },
+        {
+          "q": "How long is Nightreign?",
+          "a": "The main campaign of Nightreign is around 25 hours with over 60 hours for full completion."
+        }
+      ]
     }
   },
   "category": {
-    "meta_title": "Roblox Code Categories",
-    "meta_description": "Find all essential Roblox code categories and guides to enhance your gaming experience",
+    "meta_title": "Nightreign Categories",
+    "meta_description": "Find all essential Nightreign categories and guides to enhance your gameplay experience.",
     "homeBtn": "Home",
-    "categoryBtn": "Category",
-    "h1": "Roblox Code Categories",
-    "h2": "Find All Roblox Codes You Need Here",
-    "h2description": "All Roblox codes are sorted by categories"
+    "categoryBtn": "Categories",
+    "h1": "Nightreign Categories",
+    "h2": "Find All Nightreign Content You Need Here",
+    "h2description": "All Nightreign content is sorted by category."
   },
   "article": {
-    "meta_title": "Articles - Roblox Code",
-    "meta_description": "Explore our collection of articles about Roblox codes and promo codes",
+    "meta_title": "Articles - Nightreign",
+    "meta_description": "Explore our collection of articles and guides for Nightreign expansion, classes, bosses, and more.",
     "h1": "Articles",
-    "h2": "Discover useful Roblox code guides and resources",
+    "h2": "Discover useful Nightreign guides and resources",
     "homeBtn": "Home",
     "articleBtn": "Articles",
     "backToArticles": "Back to Articles"
   },
   "changelog": {
-    "meta_title": "Changelog - Roblox Code",
-    "meta_description": "Stay up to date with the latest updates on RobloxCode.net",
+    "meta_title": "Changelog - Nightreign",
+    "meta_description": "Stay up to date with the latest updates and patch notes for Nightreign expansion.",
     "h1": "Changelog",
-    "h2": "Stay up to date with the latest updates on RobloxCode.net",
+    "h2": "Stay up to date with the latest updates for Nightreign",
     "homeBtn": "Home",
     "changelogBtn": "Changelog"
   },
   "tools": {
-    "meta_description": "Find all essential Roblox codes and guides to enhance your gaming experience",
-    "h2_1": "All Roblox codes related to",
+    "meta_description": "Find all essential Nightreign tools, guides, and resources to enhance your gameplay experience.",
+    "h2_1": "All Nightreign tools related to",
     "h2_2": "",
     "homeBtn": "Home"
   },
   "search": {
-    "input_placeholder": "Search tools by name / tags...",
+    "input_placeholder": "Search Nightreign tools by name / tags...",
     "heading": "Suggestions",
     "more": "More",
     "button": "Search",
@@ -74,17 +84,17 @@
     "moreCategoryBtn": "More",
     "moreCategoryDescription": "More Categories",
     "articleBtn": "Articles",
-    "articleDescription": "Your Ultimate Guide for Roblox Codes and Promo Codes",
-    "latestCodesArticle": "Latest Roblox Codes 2025",
-    "latestCodesDescription": "Get the latest Roblox promo codes and learn how to redeem them",
-    "secretsArticle": "Are Roblox Codes Really Useful?",
-    "secretsDescription": "Explore the true value of Roblox codes, uncovering how these promo codes impact player experiences",
+    "articleDescription": "Your Ultimate Guide for Nightreign Expansion, Classes, and Boss Strategies",
+    "latestCodesArticle": "Revenant Class Unlock Guide",
+    "latestCodesDescription": "Learn how to unlock the hidden Revenant class in Nightreign",
+    "secretsArticle": "Duchess Class Unlock Guide",
+    "secretsDescription": "Master the elegant assassin class with our comprehensive guide",
     "moreArticleBtn": "More Articles",
-    "moreArticleDescription": "Browse all articles about Roblox codes",
+    "moreArticleDescription": "Browse all Nightreign guides and strategies",
     "changelogBtn": "Changelog"
   },
   "footer": {
-    "description": "Your Ultimate Guide for Roblox Codes and Promo Codes",
+    "description": "Your Ultimate Guide for Nightreign Expansion, Bosses, Classes, and Strategies",
     "quickLinks": "Quick Links",
     "home": "Home",
     "category": "Categories",
